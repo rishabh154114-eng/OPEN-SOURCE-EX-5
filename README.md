@@ -1,5 +1,5 @@
 # OPEN-SOURCE-EX-5
-## NAME : T.Risha bh srivatsav
+## NAME : T.Rishabh srivatsav
 ## REG NO : 25001966
 ## DEPT : CSE(IOT)
 # STEPS INVOLVED:
